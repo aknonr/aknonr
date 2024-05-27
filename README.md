@@ -1,10 +1,7 @@
 # 💫 About Me:
   🔭 I’m currently working on several projects<br><br>  🌱 I’m currently learning Software Developer Tools<br><br>  🏠 I’m living in Istanbul now<br><br>  📫 How to reach me: aknonr23@gmail.com
 
-### 🔝 Top Contributed Repo
 
----
-[![](https://visitcount.itsvg.in/api?id=aknonr&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
 # 💻 Tech Stack:
