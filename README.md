@@ -1,7 +1,10 @@
 # 💫 About Me:
   🔭 I’m currently working on several projects<br><br>  🌱 I’m currently learning Software Developer Tools<br><br>  🏠 I’m living in Istanbul now<br><br>  📫 How to reach me: aknonr23@gmail.com
 
+### 🔝 Top Contributed Repo
 
+---
+[![](https://visitcount.itsvg.in/api?id=aknonr&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
 # 💻 Tech Stack:
@@ -11,9 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aknonr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aknonr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
 
----
-[![](https://visitcount.itsvg.in/api?id=aknonr&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
