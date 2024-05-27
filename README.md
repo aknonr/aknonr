@@ -1,7 +1,7 @@
 # 💫 About Me:
   🔭 I’m currently working on several projects<br><br>  🌱 I’m currently learning Software Developer Tools<br><br>  🏠 I’m living in Istanbul now<br><br>  📫 How to reach me: aknonr23@gmail.com
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aknonr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 # 💻 Tech Stack:
