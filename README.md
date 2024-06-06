@@ -1,6 +1,7 @@
 # 💫 About Me:
   🔭 I’m currently working on several projects<br><br>  🌱 I’m currently learning Software Developer Tools<br><br>  🏠 I’m living in Istanbul now<br><br>  📫 How to reach me: aknonr23@gmail.com
 
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=aknonr)
 
 
 
