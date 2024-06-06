@@ -2,10 +2,17 @@
   🔭 I’m currently working on several projects<br><br>  🌱 I’m currently learning Software Developer Tools<br><br>  🏠 I’m living in Istanbul now<br><br>  📫 How to reach me: aknonr23@gmail.com
 
   
-<div id="badges">
-  <a href="www.linkedin.com/in/akınoner">
+   <div id="center">
+  <a href="https://www.linkedin.com/in/ak%C4%B1noner/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
+
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <img src="https://komarev.com/ghpvc/?aknonr=aknonr&style=flat-square&color=blue" alt=""/>
 
