@@ -1,6 +1,14 @@
 # 💫 About Me:
   🔭 I’m currently working on several projects<br><br>  🌱 I’m currently learning Software Developer Tools<br><br>  🏠 I’m living in Istanbul now<br><br>  📫 How to reach me: aknonr23@gmail.com
 
+  
+  <div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/ak%C4%B1noner/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+< img src="https://komarev.com/ghpvc/?username=aknonr&style=flat-square&color=blue" alt=""/>
+
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=aknonr)
 
 
