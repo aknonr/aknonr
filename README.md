@@ -13,7 +13,7 @@
 
   
    <div id="center">
-  <a href="https://www.linkedin.com/in/ak%C4%B1noner/">
+  <a href="www.linkedin.com/in/akinoner">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
