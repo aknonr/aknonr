@@ -1,59 +1,75 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b3d91,100:00b4d8&text=Ak%C4%B1n%20%C3%96ner&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=.NET%20Developer%20%C2%B7%20Windows%20Server%20%26%20Automation&descAlignY=58&descSize=16" alt="Akın Öner" width="100%"/>
+
+<a href="https://github.com/aknonr/aknonr">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=00B4D8&center=true&vCenter=true&width=640&lines=Building+internal+tooling+for+Windows+operations;ASP.NET+Core+%C2%B7+Blazor+%C2%B7+SQL+Server;Security-first%2C+auditable%2C+read-only+by+default" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/akinoner/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:aknonr23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://img.shields.io/badge/Istanbul-Turkey-informational?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Istanbul"/>
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aknonr&style=flat-square&color=blue" alt="Profile Views"/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=aknonr&icon=0&color=0" alt="Visit Count"/>
-  </a>
-</p>
+---
 
-# 💫 About Me:
-- 🔭 I’m currently working on several projects  
-- 🌱 I’m learning advanced Software Development Tools  
-- 🏠 Based in **Istanbul, Turkey**  
-- 📫 Reach me at: **aknonr23@gmail.com**  
+## 👋 About
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/akinoner/">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+I'm a **Windows systems administrator turned .NET developer** based in Istanbul. I run shift operations by day and build the tools that make them safer and less manual — so I care about the things that matter on an ops floor: **audit trails, least privilege, honest UI states and boring reliability.**
+
+- 🛡️ Currently building an internal **operations automation platform** (private): shift handover, on-call and incident context, read-only diagnostics, privileged-access correlation and an append-only audit log. Authorization is enforced on the server; the UI only reflects it.
+- 🔐 Deep interest in **Active Directory / LDAP, gMSA, JEA / WinRM** and constrained remoting.
+- 🧪 Working with **AI-assisted development** (Claude Code) — specs, ADRs and tests first, then code.
+- 🌱 Learning: Blazor, distributed messaging patterns, observability.
+
+## 🧰 Tech stack
+
+<div align="center">
+
+**Backend & Platform**<br/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,powershell,git&perline=8" alt="backend"/>
+
+**Data & Messaging**<br/>
+<img src="https://skillicons.dev/icons?i=mssql,mysql,mongodb,redis,rabbitmq,elasticsearch&perline=8" alt="data"/>
+
+**Frontend & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,postman,aws&perline=8" alt="frontend"/>
+
+</div>
+
+## 📌 Selected work
+
+| Project | What it shows |
+|---|---|
+| 🔒 **Operations automation platform** *(private)* | Blazor UI + ASP.NET Core API, SQL Server, role-based capabilities, append-only audit, ADR-driven design |
+| [**LDAP_Project**](https://github.com/aknonr/LDAP_Project) | Directory (LDAP / AD) integration in C# |
+| [**RabbitMQSample**](https://github.com/aknonr/RabbitMQSample) | Message-queue producer / consumer patterns with RabbitMQ |
+| [**ASPNetCoreIdentity.App.Web**](https://github.com/aknonr/ASPNetCoreIdentity.App.Web) | ASP.NET Core Identity: authentication, roles, claims |
+| [**Dapper**](https://github.com/aknonr/Dapper) | Lightweight data access with Dapper |
+| [**CarBook**](https://github.com/aknonr/CarBook) | Full-stack car rental application |
+| [**ECommerceProject**](https://github.com/aknonr/ECommerceProject) | E-commerce web application |
+| [**ETicaretWinForm**](https://github.com/aknonr/ETicaretWinForm) | WinForms e-commerce desktop app |
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com/?user=aknonr&theme=github-dark-blue&hide_border=true" alt="Streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aknonr&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aknonr&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
+
+</div>
 
 ---
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white) 
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)  
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  
+<div align="center">
 
----
+🚀 Open to collaboration and interesting .NET / automation problems — **say hi!**
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=aknonr&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aknonr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:00b4d8,100:0b3d91&section=footer" width="100%" alt=""/>
 
----
-
-<p align="center">
-  🚀 Always open to collaboration and new opportunities!  
-</p>
-
+</div>
