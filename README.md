@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/akinoner/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:aknonr23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Istanbul%2C%20TR-0b3d91?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Istanbul"/>
-  <img src="https://komarev.com/ghpvc/?username=aknonr&label=Profile%20views&color=0077b6&style=for-the-badge" alt="Profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aknonr.aknonr&left_text=Profile%20views&left_color=%23555555&right_color=%230077b6" alt="Profile views"/>
 </p>
 
 </div>
